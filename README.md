@@ -1,2 +1,5 @@
-# stmaryslab
-St. Mary's Lab Live Site 
+# St. Mary's Laboratory Website (stmaryslab.com)
+
+Live website
+
+Setup & Configuration
